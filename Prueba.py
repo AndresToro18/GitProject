@@ -1,2 +1,3 @@
 a = "Hola Mundo"
-b = 5
+b = 17
+c = "Casa"
